@@ -1,33 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de Gestão Universitária</title>
-    <style>
-        /* Adicione estilos CSS conforme necessário */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 0;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-        .section {
-            margin-bottom: 30px;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 20px;
-        }
-        .section h2 {
-            color: #666;
-        }
-    </style>
-</head>
 <body>
     <h1>Sistema de Gestão Universitária</h1>
     
