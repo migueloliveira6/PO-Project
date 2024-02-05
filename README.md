@@ -3,7 +3,7 @@
 <body>
     <h1>Sistema de Gestão Universitária</h1>
     
-    <!-- Descrição Geral -->
+    Descrição Geral
     <div class="section">
         <h2>Descrição Geral</h2>
         <p>
