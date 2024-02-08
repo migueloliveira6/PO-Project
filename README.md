@@ -29,3 +29,5 @@ Consulta assiduidade de determinado aluno.</p>
 
 <p>Alterar designação do Curso.
 Listar número de professores ou alunos por curso.</p>
+
+<h2> Classificação final: 19/20</h2>
